@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hamza/CLionProjects/HamzaBrahmi109429/IO_bvernan.c
+IO_bvernan.h
+/home/hamza/CLionProjects/HamzaBrahmi109429/IO_bvernan.h
+stdlib.h
+-
+
+/home/hamza/CLionProjects/HamzaBrahmi109429/IO_bvernan.h
+bvernan.h
+/home/hamza/CLionProjects/HamzaBrahmi109429/bvernan.h
+stdio.h
+-
+
+/home/hamza/CLionProjects/HamzaBrahmi109429/bvernan.c
+bvernan.h
+/home/hamza/CLionProjects/HamzaBrahmi109429/bvernan.h
+stdlib.h
+-
+
+/home/hamza/CLionProjects/HamzaBrahmi109429/bvernan.h
+stddef.h
+-
+
+/home/hamza/CLionProjects/HamzaBrahmi109429/main.c
+stdlib.h
+-
+IO_bvernan.h
+/home/hamza/CLionProjects/HamzaBrahmi109429/IO_bvernan.h
+

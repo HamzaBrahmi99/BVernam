@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/bvernan.dir/main.c.o CMakeFiles/bvernan.dir/bvernan.c.o CMakeFiles/bvernan.dir/IO_bvernan.c.o -o bvernan 

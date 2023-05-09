@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/HamzaBrahmi109429.dir/main.c.o CMakeFiles/HamzaBrahmi109429.dir/bvernan.c.o CMakeFiles/HamzaBrahmi109429.dir/IO_bvernan.c.o -o HamzaBrahmi109429 
